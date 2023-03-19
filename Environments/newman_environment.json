@@ -1,0 +1,14 @@
+{
+	"id": "944162aa-0580-48ff-8623-275a196fbe95",
+	"name": "postman",
+	"values": [
+		{
+			"key": "postmanechourl",
+			"value": " https://postman-echo.com/",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-03-04T08:04:23.884Z",
+	"_postman_exported_using": "Postman/10.11.1"
+}
